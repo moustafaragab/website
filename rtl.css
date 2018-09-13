@@ -1,0 +1,78 @@
+
+.navbar-default
+{
+    background-color: cadetblue;
+}
+
+.navbar-default .navbar-brand
+{
+    color: red ;
+}
+
+
+.navbar-brand
+{
+    font-size: 24px ;
+    line-height: 25px ;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+    color: aliceblue;
+}
+
+.navbar-nav > li > a
+{
+    padding-top: 15px ; 
+    padding-bottom: 17px ;
+}
+
+
+.btn-default
+{
+    color: blue ; 
+    background-color: bisque ;
+}
+
+.btn
+{
+    margin-top: 10px ;
+    padding: 20px 15px ;
+    font-size: 18px ;
+    border-radius: 100px ;
+}
+
+.lead
+{
+    font-size: 16px;
+}
+
+.ai
+{
+    padding: 0px 25px ;
+}
+
+.i1
+{
+    margin-top: 20px ;
+    width: 300px ;
+    height: 250px ;
+}
+
+.tabl
+{
+    padding: 20px ;
+}
+
+.td
+{
+    color:darkblue;
+    font-weight: bold;
+}
+
+@font-face
+{
+    font-family : dinar ;
+    src : url(dinar.otf) ;
+    
+}
